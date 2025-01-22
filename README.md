@@ -15,6 +15,9 @@ This repository contains my project for the "Build Your Own Interface" quest. Th
 ### 4. [**Animation**](https://github.com/nyunja/build-your-own-interface/blob/main/Paul_John_Animation_01212025_V1.fig)
    - Animated prototype for ecommerce website.
 
+### 5. [**Desirability Test**](https://github.com/nyunja/build-your-own-interface/blob/main/DesirabilityTest_Paul_John.zip)
+   - Desirability test session and report.
+
 ## Usage
 
 To view or edit these `.fig` files:
